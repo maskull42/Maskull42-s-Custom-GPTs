@@ -1,4 +1,4 @@
-# Maskull42's Custom GPT Repository
+# Maskull42's Custom GPT Repository for ChatGPT
 
 ### Early experiments with simple GPT creation.
 
